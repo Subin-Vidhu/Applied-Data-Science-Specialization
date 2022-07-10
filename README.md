@@ -1,2 +1,4 @@
 # Python-Project-for-DataScience
-Coursera Assignment.
+
+IBM Applied Data Science Specialization
+Coursera Assignments and Notes.
